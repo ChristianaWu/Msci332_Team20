@@ -1,4 +1,10 @@
-Test 1: Random time
+Test 1: Where Y < H (Y < 20 and C <= 10)
+
+N=18
+D=18
+c=3
+p=1.5
+H=20
 
 node i   node j   time
    1	      2	    1
