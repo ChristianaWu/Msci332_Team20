@@ -1,4 +1,4 @@
-Test 1: Random time
+Test 1: Same as Test 1 from assignment 2 with same results
 
 node i   node j   time
    1	      2	    1

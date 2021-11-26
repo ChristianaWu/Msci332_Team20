@@ -1,4 +1,10 @@
-Test 2: 
+Test 5: Where Y > 20 but C < 10
+
+N=18
+D=18
+c=2
+p=1.9
+H=20
 
 node i     node j  time
    1	      2	    3
