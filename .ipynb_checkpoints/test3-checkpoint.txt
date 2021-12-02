@@ -1,5 +1,4 @@
 Test 3: Two minimum solutions (two paths are the same)
-number of random iterations: 500
 
 node i     node j  time
    1	      2	    1
